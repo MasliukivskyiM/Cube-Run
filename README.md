@@ -32,4 +32,4 @@ This is a non-commercial project created for learning purposes and to explore th
 
 ## Gameplay Video
 
-[Watch the full gameplay walkthrough on YouTube](https://youtu.be/_W4WxJRvbso?si=_kgAXqPY9XlqTsMd)
+Watch the full gameplay walkthrough on YouTube https://youtu.be/_W4WxJRvbso?si=_kgAXqPY9XlqTsMd
