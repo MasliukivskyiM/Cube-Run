@@ -41,6 +41,6 @@ This is a non-commercial project created for learning purposes and to explore th
 
 ![Gameplay2](Screenshots/Gameplay2.png)
 
-![Ending](Screenshots/Ending.png)
-
 ![LevelComplete](Screenshots/LevelComplete.png)
+
+![Ending](Screenshots/Ending.png)
