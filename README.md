@@ -43,4 +43,4 @@ This is a non-commercial project created for learning purposes and to explore th
 
 ![Ending](Screenshots/Ending.png)
 
-![LevelComplete](Screenshots/Level Complete.png)
+![LevelComplete](Screenshots/LevelComplete.png)
