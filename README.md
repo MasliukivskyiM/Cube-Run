@@ -33,3 +33,14 @@ This is a non-commercial project created for learning purposes and to explore th
 ## Gameplay Video
 [Watch the full gameplay walkthrough on YouTube](https://youtu.be/_W4WxJRvbso?si=uw56BDgsTcvhKH5g)
 
+## Screenshots
+
+![MainMenu](Screenshots/MainMenu.png)
+
+![Gameplay](Screenshots/Gameplay.png)
+
+![Gameplay2](Screenshots/Gameplay2.png)
+
+![Ending](Screenshots/Ending.png)
+
+![Level Complete](Screenshots/Level Complete.png)
