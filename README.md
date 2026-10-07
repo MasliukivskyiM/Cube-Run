@@ -28,3 +28,7 @@ Each level becomes progressively more demanding, testing your reflexes and consi
 ## Project Purpose
 
 This is a non-commercial project created for learning purposes and to explore the core systems of Unreal Engine 5.
+
+
+## Gameplay Video
+[Watch the full gameplay walkthrough on Youtube](https://youtu.be/_W4WxJRvbso?si=_kgAXqPY9XlqTsMd)
